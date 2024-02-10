@@ -8,6 +8,7 @@
   <img heigh = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LVSigoli&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
+## Languages and tools:
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -19,9 +20,11 @@
 
 ## Currently learning:
 
-<div style="{display:flex, flex-direction: row }"><br>
-  <img  alt="Lucas-Java"  height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />         
-</div>
+- I'm currently learning Java language. 
+
+- Tools and Technologies: -> **Git | VSCode | IntelliJ | Slack | Trello**
+
+- 📫 How to reach me **lucasviniciussigoli@gmail.com**
 
 
 ### Social Medias: 
