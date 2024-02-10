@@ -20,11 +20,11 @@
 
 ## Currently learning:
 
-- I'm currently learning Java language. 
+- I'm currently learning Java. 
 
 - Tools and Technologies: -> **Git | VSCode | IntelliJ | Slack | Trello**
 
-- 📫 How to reach me **lucasviniciussigoli@gmail.com**
+- 📫 How to reach me:  **lucasviniciussigoli@gmail.com**
 
 
 ### Social Medias: 
