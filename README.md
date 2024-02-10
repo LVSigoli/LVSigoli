@@ -5,7 +5,6 @@
 <div margin-botton ="10px">
   <a href="https://github.com/LVSigoli">
   <img heigh = "180em" src = "https://github-readme-stats.vercel.app/api?username=LVSigoli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img heigh = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LVSigoli&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 ## Languages and tools:
