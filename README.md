@@ -19,7 +19,7 @@
 
 ## Currently learning:
 
-- I'm currently learning Java. 
+- I'm currently learning React-Native. 
 
 - Tools and Technologies: -> **Git | VSCode | IntelliJ | Slack | Trello**
 
